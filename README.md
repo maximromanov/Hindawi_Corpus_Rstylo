@@ -1,6 +1,10 @@
 # Hindawi_Corpus
 
-A selection of Arabic texts for stylometric tests: `corpus065`, `corpus300`, and `corpus022_JurjiZaydan_Dated`
+A selection of Arabic texts for stylometric tests with R stylo: `corpus065`, `corpus300`, and `corpus022_JurjiZaydan_Dated`
+
+- texts are cleaned and contain *only* the Arabic text
+- short vowels removed
+- orthography normalized (*hamzaŧ*/*alif*, final *yāʾ*/*alif maqsūraŧ*, etc.) 
 
 ## Summary stats on the 300 selection
 
